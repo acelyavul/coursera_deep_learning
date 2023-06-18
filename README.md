@@ -8,3 +8,4 @@
 ### Programming Assignments
 
 - [Week 2 - Python Basics with Numpy](https://github.com/acelyavul/coursera_deep_learning/blob/main/Python_Basics_with_Numpy.ipynb)
+- [Week 3 - Logistic Regression with a Neural Network Mindset]()
