@@ -7,4 +7,4 @@
 
 ### Programming Assignments
 
-- [Week 2 - Python Basics with Numpy]()
+- [Week 2 - Python Basics with Numpy](https://github.com/acelyavul/coursera_deep_learning/blob/main/Python_Basics_with_Numpy.ipynb)
