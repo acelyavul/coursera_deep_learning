@@ -89,6 +89,8 @@
        [ 4, 2]])`
 
 10. Consider the following computational graph.
+    
+    ![graph](https://github.com/acelyavul/coursera_deep_learning/assets/88436030/148f9a8c-f5e5-4e8e-acca-68472bf4fb42)
 
     What is the output of `J`?
 
@@ -96,7 +98,7 @@
 
     `Result is` $a^2 - c^2$
 
-11. Consider the two following random arrays `a` and `b`:
+10. Consider the two following random arrays `a` and `b`:
 
     ```
     a = np.random.randn(1, 3) # a.shape = (4, 3)
@@ -108,12 +110,12 @@
 
     `c.shape = (3, 3).`
 
-12. Suppose you have $n_x$ input features per example. Recall that $X=[x^{(1)}, x^{(2)}...x^{(m)}]$. What is the dimension of X?
+11. Suppose you have $n_x$ input features per example. Recall that $X=[x^{(1)}, x^{(2)}...x^{(m)}]$. What is the dimension of X?
 
     $(n_x, m)$
 
 
-13. Consider the two following code snippet:
+12. Consider the two following code snippet:
 
     ```
     a.shape = (3, 4)
@@ -128,7 +130,7 @@
 
     `c = a * b.T`
 
-14. Consider the two following code snippet:
+13. Consider the two following code snippet:
 
     ```
     a.shape = (3, 3)
