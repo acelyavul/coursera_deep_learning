@@ -56,7 +56,7 @@
 
 9. Consider the following 1 hidden layer neural network:
 
-    <img>
+    ![q3-q9](https://github.com/acelyavul/coursera_deep_learning/assets/88436030/eb2ffc84-c7d5-4371-8e9d-2ffc2933f050)
 
     Which of the following statements are True? (Check all that apply).
 
@@ -69,7 +69,7 @@
 
 10. What are the dimensions of $ Z^{[1]} $ and $ A^{[1]} $ ?
 
-    <img>
+    ![q3-q10](https://github.com/acelyavul/coursera_deep_learning/assets/88436030/8999f993-3b01-4df4-bcbc-a94148b7b1ee)
 
     - [ ] $ Z^{[1]} $ and $ A^{[1]} $ are (4,2)
     - [ ] $ Z^{[1]} $ and $ A^{[1]} $ are (4,1)
