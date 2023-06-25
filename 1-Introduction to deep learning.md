@@ -32,7 +32,7 @@
     - [x] We have access to a lot more data.
     - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
 
-![diagram-1](https://github.com/acelyavul/coursera_deep_learning/assets/88436030/fecd4820-8303-4e4a-831c-e08292d0933c)
+![diagram](assets/q1-diagram.png)
 
 6. Recall the diagram of iterating over different ML ideas. Which of the stages shown in the diagram was improved with the use of a better GPU/CPU?
     
@@ -63,7 +63,7 @@
     - [x] The RNN is applicable when the input and output of the problem are sequences.
     - [ ] The RNN requires a small number of examples.
  
-![diagram-2](https://github.com/acelyavul/coursera_deep_learning/assets/88436030/8ccae772-5a67-415d-9cd5-c46c7ac63412)
+![diagram-2](assets/q1-diagram-2.png)
 
 11. From the given diagram, we can deduce that large NN models are alwaysbetter than traditional learning algorithms. True/False?
 
