@@ -4,7 +4,7 @@
 
 - [Week 1 - Introduction to Deep Learning](https://github.com/acelyavul/coursera_deep_learning/blob/main/1-Introduction%20to%20deep%20learning.md)
 - [Week 2 - Neural Network Basics](https://github.com/acelyavul/coursera_deep_learning/blob/main/2-Neural%20Network%20Basics.md)
-- [Week 3 - Shallow Neural Networks](https://github.com/acelyavul/coursera_deep_learning/blob/main/3-Shallow%20Neural%20Networksmd)
+- [Week 3 - Shallow Neural Networks](https://github.com/acelyavul/coursera_deep_learning/blob/main/3-Shallow%20Neural%20Networks.md)
 
 ### Programming Assignments
 
