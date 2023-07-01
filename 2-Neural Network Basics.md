@@ -1,4 +1,4 @@
-## Week 1 Quiz - Introduction to Deep Learning
+## Week 2 Quiz - Neural Network Basics
 
 1. In logistic regression given `x` parameters $w ∈ R^{n_x}, b ∈ R$. Which of the following best expresses what we want `y^`​ to tell us?
 
