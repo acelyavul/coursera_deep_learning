@@ -20,14 +20,14 @@
 
 
 ### Quiz Solutions
-- [Week 1 - Practical aspects of Deep Learning]()
-- [Week 2 - Optimization Algorithms]()
-- [Week 3 - Hyperparameter tuning, Batch Normalization, Programming Frameworks]()
+- [Week 1 - Practical aspects of Deep Learning](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-1/1-Practical%20aspects%20of%20Deep%20Learning.md)
+- [Week 2 - Optimization Algorithms](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-2/Optimization%20Algorithms.md)
+- [Week 3 - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-3/Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.md)
 
 ### Programming Assignments
 
-- [Week 1 - Initialization]()
-- [Week 1 - Regularization]()
-- [Week 1 - Gradient Checking]()
-- [Week 2 - Optimization Methods]()
-- [Week 3 - TensorFlow Introduction]()
+- [Week 1 - Initialization](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-1/A1%20-%20Initialization/Initialization.ipynb)
+- [Week 1 - Regularization](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-1/A2%20-%20Regularization/Regularization.ipynb)
+- [Week 1 - Gradient Checking](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-1/A3%20-%20Gradient%20Checking/Gradient_Checking.ipynb)
+- [Week 2 - Optimization Methods](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-2/A1%20-%20Optimization%20Methods/Optimization_methods.ipynb)
+- [Week 3 - TensorFlow Introduction](https://github.com/acelyavul/coursera_deep_learning/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks/Week-3/A1%20-%20TensorFlow%20Introduction/Tensorflow_introduction.ipynb)
